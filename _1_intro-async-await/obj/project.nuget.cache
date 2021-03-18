@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lk2brRdtKZO0Jt91Yx19OazGQos+PrSrL5+v62XTDdsUqdhAMdVfn+u79ZYoU/i6LxXfQZhBf3Uc1MFVUISqww==",
+  "success": true,
+  "projectFilePath": "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/_1_intro-async-await.csproj",
+  "expectedPackageFiles": [
+    "/Users/hakanhidir/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

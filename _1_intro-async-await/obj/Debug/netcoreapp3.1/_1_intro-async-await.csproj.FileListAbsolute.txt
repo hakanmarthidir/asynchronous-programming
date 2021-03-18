@@ -1,0 +1,14 @@
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/bin/Debug/netcoreapp3.1/_1_intro-async-await.deps.json
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/bin/Debug/netcoreapp3.1/_1_intro-async-await.runtimeconfig.json
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/bin/Debug/netcoreapp3.1/_1_intro-async-await.runtimeconfig.dev.json
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/bin/Debug/netcoreapp3.1/_1_intro-async-await.dll
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/bin/Debug/netcoreapp3.1/_1_intro-async-await.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.AssemblyInfoInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.AssemblyInfo.cs
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.csproj.CoreCompileInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.csproj.CopyComplete
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.dll
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.genruntimeconfig.cache
+/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/Debug/netcoreapp3.1/_1_intro-async-await.csprojAssemblyReference.cache

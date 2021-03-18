@@ -1,0 +1,378 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/mart/my-codes/asynchronous-programming/Tests/Tests.csproj": {}
+  },
+  "projects": {
+    "/Volumes/mart/my-codes/asynchronous-programming/Tests/Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/mart/my-codes/asynchronous-programming/Tests/Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/Tests/Tests.csproj",
+        "packagesPath": "/Users/hakanhidir/.nuget/packages/",
+        "outputPath": "/Volumes/mart/my-codes/asynchronous-programming/Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hakanhidir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/_1_intro-async-await.csproj": {
+                "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/_1_intro-async-await.csproj"
+              },
+              "/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/_2_task-parallel-library.csproj": {
+                "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/_2_task-parallel-library.csproj"
+              },
+              "/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/_3_parallel_for_foreach_invoke.csproj": {
+                "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/_3_parallel_for_foreach_invoke.csproj"
+              },
+              "/Volumes/mart/my-codes/asynchronous-programming/_4_asynchronous_programming_othertopics/_4_asynchronous_programming_othertopics.csproj": {
+                "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_4_asynchronous_programming_othertopics/_4_asynchronous_programming_othertopics.csproj"
+              },
+              "/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/_5_parallel_linq.csproj": {
+                "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/_5_parallel_linq.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/_1_intro-async-await.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/_1_intro-async-await.csproj",
+        "projectName": "_1_intro-async-await",
+        "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/_1_intro-async-await.csproj",
+        "packagesPath": "/Users/hakanhidir/.nuget/packages/",
+        "outputPath": "/Volumes/mart/my-codes/asynchronous-programming/_1_intro-async-await/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hakanhidir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/_2_task-parallel-library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/_2_task-parallel-library.csproj",
+        "projectName": "_2_task-parallel-library",
+        "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/_2_task-parallel-library.csproj",
+        "packagesPath": "/Users/hakanhidir/.nuget/packages/",
+        "outputPath": "/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hakanhidir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/_3_parallel_for_foreach_invoke.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/_3_parallel_for_foreach_invoke.csproj",
+        "projectName": "_3_parallel_for_foreach_invoke",
+        "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/_3_parallel_for_foreach_invoke.csproj",
+        "packagesPath": "/Users/hakanhidir/.nuget/packages/",
+        "outputPath": "/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hakanhidir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/mart/my-codes/asynchronous-programming/_4_asynchronous_programming_othertopics/_4_asynchronous_programming_othertopics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/mart/my-codes/asynchronous-programming/_4_asynchronous_programming_othertopics/_4_asynchronous_programming_othertopics.csproj",
+        "projectName": "_4_asynchronous_programming_othertopics",
+        "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_4_asynchronous_programming_othertopics/_4_asynchronous_programming_othertopics.csproj",
+        "packagesPath": "/Users/hakanhidir/.nuget/packages/",
+        "outputPath": "/Volumes/mart/my-codes/asynchronous-programming/_4_asynchronous_programming_othertopics/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hakanhidir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/_5_parallel_linq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/_5_parallel_linq.csproj",
+        "projectName": "_5_parallel_linq",
+        "projectPath": "/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/_5_parallel_linq.csproj",
+        "packagesPath": "/Users/hakanhidir/.nuget/packages/",
+        "outputPath": "/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hakanhidir/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/bin/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.deps.json
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/bin/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.runtimeconfig.json
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/bin/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.runtimeconfig.dev.json
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/bin/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.dll
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/bin/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.csprojAssemblyReference.cache
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.AssemblyInfoInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.AssemblyInfo.cs
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.csproj.CoreCompileInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.dll
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_3_parallel_for_foreach_invoke/obj/Debug/netcoreapp3.1/_3_parallel_for_foreach_invoke.genruntimeconfig.cache

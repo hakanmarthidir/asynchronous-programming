@@ -1,0 +1,12 @@
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/bin/Debug/netcoreapp3.1/_2_task-parallel-library.deps.json
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/bin/Debug/netcoreapp3.1/_2_task-parallel-library.runtimeconfig.json
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/bin/Debug/netcoreapp3.1/_2_task-parallel-library.runtimeconfig.dev.json
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/bin/Debug/netcoreapp3.1/_2_task-parallel-library.dll
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/bin/Debug/netcoreapp3.1/_2_task-parallel-library.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.csprojAssemblyReference.cache
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.AssemblyInfoInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.AssemblyInfo.cs
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.csproj.CoreCompileInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.dll
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_2_task-parallel-library/obj/Debug/netcoreapp3.1/_2_task-parallel-library.genruntimeconfig.cache

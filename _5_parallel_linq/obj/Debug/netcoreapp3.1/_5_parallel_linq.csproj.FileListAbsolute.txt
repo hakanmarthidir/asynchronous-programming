@@ -1,0 +1,12 @@
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/bin/Debug/netcoreapp3.1/_5_parallel_linq.deps.json
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/bin/Debug/netcoreapp3.1/_5_parallel_linq.runtimeconfig.json
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/bin/Debug/netcoreapp3.1/_5_parallel_linq.runtimeconfig.dev.json
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/bin/Debug/netcoreapp3.1/_5_parallel_linq.dll
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/bin/Debug/netcoreapp3.1/_5_parallel_linq.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.csprojAssemblyReference.cache
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.AssemblyInfoInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.AssemblyInfo.cs
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.csproj.CoreCompileInputs.cache
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.dll
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.pdb
+/Volumes/mart/my-codes/asynchronous-programming/_5_parallel_linq/obj/Debug/netcoreapp3.1/_5_parallel_linq.genruntimeconfig.cache
